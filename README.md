@@ -1,1 +1,3 @@
-It is developed in JavaScript , css and HTML.
+<h3> Candy Crush Game </h3>
+Build with <b> HTML,CSS,JS </b> 
+Working on improvments
